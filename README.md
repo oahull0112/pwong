@@ -1,2 +1,7 @@
 # pwong
-Pwong
+
+
+```
+pip install -r requirements.txt
+
+```
