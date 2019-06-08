@@ -28,7 +28,7 @@ tensorflow>=1.13.1
 # https://github.com/openai/gym#installing-everything
 #gym[all]==0.10.9
 # If you only want to install the Atari dependency, uncomment this line instead:
-#gym[atari]==0.10.9
+gym[atari]>=0.10.9
 
 
 ##### Image manipulation
